@@ -144,5 +144,5 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 #EMAIL_USE_SSL = True 
 #EMAIL_PORT = 465
-EMAIL_HOST_USER = 'cleber.django.mail@gmail.com' 
-EMAIL_HOST_PASSWORD = 'mouse_django3091'
+EMAIL_HOST_USER = 'xxxx@gmail.com' 
+EMAIL_HOST_PASSWORD = 'aaaaa'
